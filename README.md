@@ -23,6 +23,5 @@ a link, so review navigation for your target. Evidence includes matched values a
 must be treated as sensitive. Use synthetic data. CI validates syntax, not live sites.
 
 ## Status
-Private portfolio preparation copy of existing project code. Original credentials,
-run data and environment defaults are excluded. No open-source license is granted;
-confirm ownership and sharing rights before making this repository public.
+Public portfolio edition of existing project code. Original credentials, captured
+run data, and environment defaults are excluded. See the limitations above.
