@@ -1,0 +1,15 @@
+{
+  "edition": "Curated copy with sanitized defaults and new documentation",
+  "files": [
+    {
+      "source_name": "browser_phi_scanner_v2.js",
+      "destination": "browser_phi_scanner_v2.js",
+      "original_sha256": "d7249adebd9f3f53185060701365f35dfe87fe2cb6e459eade57d43c2d2b6b71"
+    },
+    {
+      "source_name": "playwright_phi_scan.spec.js",
+      "destination": "playwright_phi_scan.spec.js",
+      "original_sha256": "dd75dd42b6d21995cb9be531308a9fd72aa45e24c80f62852ad85b52201abadf"
+    }
+  ]
+}
